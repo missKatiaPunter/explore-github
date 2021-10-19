@@ -1,8 +1,4 @@
 # explore-github
 Github exploration repo
 
-Hello, I am Katia 🇷🇺
-Hello, it is aaron
-Hello, I am Shreyash 
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Wares
-Hi I 'm Heni Heni on Heni
+Hello Im Dan! data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAABXCAMAAAAJSyqOAAAAclBMVEX///8BOLf19fUAOLcAIbMAMLVUa8dqesvi5vUAI7Pb3vEAMra3veQADrAANbYAJbMAHLIAFLGxuOIALbXt7e35+v2Xodns7/hCVsAePbmRm9YyTrzEyOjz9fsAAK4qRrxLX8Jzgc2nsN6EkNJkc8j///lIsprwAAACE0lEQVRoge2aC5OCIBDHIZcrXA9MetipeY/6/l/x8EFnd9dMdKM7zvGvBDblNwrsAsU2Cwpt2IJRaBG4gTsKN6YRk0AhySIaMR7x6RXxwA3cwJ0xl8pfaSmhe4Hss70LBdkVWmPzXZ9t7OBOleBS+XVNl+0uA5deTmuKmq1oNMe4X9Fwt/mWhLs77ii4+5SnewLuSShxmp4br0WB63hybi7qfS3yqbkZyIxl0h4m5VYHbG41x8Njg/hR7otOm6aNU/0yOjfOEqcMVVHatCwUDqz39zIfbnWENmbZ2KJ5pNogoyKuexvA8f5n7vWc3yFS62cr1adWa5vvU3i/vyq/9i2wbtMca3drVY3dWKqx8KjJj1uCblxyBpBcbAlAM5Z2EsrRuOxkoGLbg3gd2F7FYcsqabx8pid3pc2bG0NO7Vh6M3o1Ipd9aJOgWV7ZlgYToz+86vH2G0ZJnl6PlyrlUhm/ary5mYz093C/05Gvn/b3k4ab7+6hMlx71jKb+7Xtq360rxq9fX/vz2rs/kw1fk9GUvirMr3tn3U6nn8mikeX+ItX8RdHjr9U8w2q+dVQU84nh6KaP7v1Aky8XiBbH9n1IJKsB6nWv2Trfar9DbL9nL/tX50fv/gPOrMljZig0b/bbw/cwA3c+XJRoBBoj+2neQuXccUuJ+6wtsWBVdy0sicakcXBGf5eFriBe5NL9H/CT/yZSQOb9HYwAAAAAElFTkSuQmCC
