@@ -11,6 +11,10 @@ Hello, I am Katia 🇷🇺
 
 ---
 
+Hi, I'm Charlotte
+
+---
+
 Hello, it is Conal
 
 ---
@@ -44,5 +48,4 @@ Hi I'm Heni Heni on Heni
 ---
 
 Hello, it's Jonathan
-
 
