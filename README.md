@@ -5,12 +5,11 @@ Hello, I am Katia 🇷🇺
 
 ---
 
-Hello, it is Aaron
+Hello, it is Conal
 
 ---
 
-Hello, it is Conal 
-
+Hello, it is Aaron
 
 ---
 
@@ -22,15 +21,11 @@ Hello, I am Shreyash
 
 ---
 
-Hello, I am Shreyash
-
----
-
 Hello, i am Billy
 
 ---
 
-Hello- Joshua
+Hello - Joshua
 
 ---
 
@@ -38,10 +33,9 @@ Hello- Joshua
 
 ---
 
-Hi I 'm Heni Heni on Heni
+Hi I'm Heni Heni on Heni
 
 ---
 
 Hello, it's Jonathan
-
 
